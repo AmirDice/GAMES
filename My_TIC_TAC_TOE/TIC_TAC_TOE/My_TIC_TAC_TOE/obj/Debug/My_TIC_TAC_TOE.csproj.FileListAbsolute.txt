@@ -26,3 +26,13 @@ C:\Users\AMIR\Downloads\Compressed\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj
 C:\Users\AMIR\Downloads\Compressed\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csproj.CoreCompileInputs.cache
 C:\Users\AMIR\Downloads\Compressed\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.exe
 C:\Users\AMIR\Downloads\Compressed\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.pdb
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe.config
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.pdb
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csprojAssemblyReference.cache
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.Amir_TIC_TAC_TOE.resources
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.Properties.Resources.resources
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csproj.GenerateResource.cache
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.exe
+C:\Users\AMIR\Documents\GitHub\GAMES\My_TIC_TAC_TOE\TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.pdb
